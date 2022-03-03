@@ -9,6 +9,7 @@ private int edad;
 private String sexo;
 private double peso;
 private double altura;
+private String profecion;
 
     public Persona() {
     }
